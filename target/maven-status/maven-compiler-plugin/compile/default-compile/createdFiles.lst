@@ -1,0 +1,13 @@
+com/diagnocons/arduino/ArduinoApplication.class
+com/diagnocons/arduino/service/WhatsappSender.class
+com/diagnocons/arduino/service/ArduinoService.class
+com/diagnocons/arduino/repository/ContactoAvisarRepository.class
+com/diagnocons/arduino/entity/ContactoAvisar$ContactoAvisarBuilder.class
+com/diagnocons/arduino/clients/KafkaFeignClient.class
+com/diagnocons/arduino/service/KafkaWhatsappSender.class
+com/diagnocons/arduino/service/ArduinoServiceImpl.class
+com/diagnocons/arduino/controllers/ArduinoController.class
+com/diagnocons/arduino/entity/ContactoAvisar.class
+com/diagnocons/arduino/entity/WhatsappMessage.class
+com/diagnocons/arduino/entity/WhatsappMessage$WhatsappMessageBuilder.class
+com/diagnocons/arduino/entity/Message.class
